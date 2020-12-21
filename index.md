@@ -10,7 +10,11 @@ Embedded Software Engineer
 | <a href="https://www.linkedin.com/in/jaafarmohamed/">Mohamed JAAFAR</a>
 </div>
 
-## Expertise 
+## Actuellement :
+
+Ingénieur Logiciel embarqué temps réel.
+
+## Spécialisé : 
 
 __Outils de développement__	 :	GNU Tools (gdb, gcc, g++, etc.), Wireshark, dvbsnoop, Dekteck, STDebug, Bugzilla, forge, redmine
 
@@ -39,18 +43,9 @@ __Italien__ 		: Intermédiaire
 __Allemand__ 		: Débutant
 __Russe__ 			: Notions
 
-## Currently
+### Domaine d'intéret :
 
-Ingénieur Logiciel embarqué temps réel.
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Innovations, Nouvelles technologies, Linux, Docker, TvNum.
 
 
 ## Education
