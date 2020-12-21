@@ -10,6 +10,25 @@ Embedded Software Engineer
 | <a href="https://www.linkedin.com/in/jaafarmohamed/">Mohamed JAAFAR</a>
 </div>
 
+## Expertise 
+
+__Outils de développement__	 :	GNU Tools (gdb, gcc, g++, etc.), Wireshark, dvbsnoop, Dekteck, STDebug, Bugzilla, forge, redmine
+
+__Langages__	               :	C/C++, Assembleur, HTML, Visual Basic.
+
+__Langages de script__	     :	Shell, Makefile, cmake, vcpkg(windows open source)
+
+__Gestion de configuration__ :	Bazaar, CVS, SVN. RTC, Git.
+
+__Systèmes d’exploitation__	 :	Androïd, Linux (Debian/Ubuntu), Windows, Unix (Solaris)
+
+__OS Temps Réels__	         :	STLinux , Linux, OS21,stblinux
+
+__Méthodes, Gestion__ 	     :	Cycle en V, UML, Agile
+
+__Systèmes de build__ 	     :	 buildroot, Proprietary buildSys : ST, SAGEM, BEWAN, PACE
+
+__Normes  & protocoles__	:   	H264, MPEG, DVB, SIP, H323, TCP/IP, Wifi, DVB-S/T/IPTV, MPEG, TR69, TR135 ; TR157 ; OPENSSL ;SNMP, NFS, NTP, DHCP, DNS, FTP, HTTP/S, FEC, RTP/RTCP, RTSP, AUDIO : DDPLUS ; AC3 ; EAC3 ;...  HDMI : EDID ; ASTRO ; HDCP ;... SCART:WSS (CGMS-A); MACROVISION;Dbus,QT(integration) ;
 
 ## Currently
 
