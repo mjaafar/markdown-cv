@@ -30,6 +30,15 @@ __Systèmes de build__ 	     :	 buildroot, Proprietary buildSys : ST, SAGEM, BE
 
 __Normes  & protocoles__	:   	H264, MPEG, DVB, SIP, H323, TCP/IP, Wifi, DVB-S/T/IPTV, MPEG, TR69, TR135 ; TR157 ; OPENSSL ;SNMP, NFS, NTP, DHCP, DNS, FTP, HTTP/S, FEC, RTP/RTCP, RTSP, AUDIO : DDPLUS ; AC3 ; EAC3 ;...  HDMI : EDID ; ASTRO ; HDCP ;... SCART:WSS (CGMS-A); MACROVISION;Dbus,QT(integration) ;
 
+## Langues 
+
+__Anglais__ 		: Courant
+__Arabe__ 			: Courant
+__Français__		: Courant
+__Italien__ 		: Intermédiaire 
+__Allemand__ 		: Débutant
+__Russe__ 			: Notions
+
 ## Currently
 
 Ingénieur Logiciel embarqué temps réel.
