@@ -57,7 +57,9 @@ Basic: Français, Anglais, Allemand, Italien
 
 ## Expériences Professionelles:
 
-##
+<!--
+## Ingénieur D’Etude
+-->
 `08/2019 - 03/2020`
 
 **Ingénieur D’Etude (Ingénieur Qualité)**, *Bouygues Télécoms*, Velizy 2, France. <br/>
@@ -75,7 +77,9 @@ Mise en place d’outils de tests et mise en place de scénarios de tests.
 ### Environnement
 Bash, python, selenium, RTC
 
-##
+<!--
+## Ingénieur D’Etude
+-->
 `03/2019 – 07/2019`
 
 **Ingénieur D’Etude (Ingénieur Qualité)**, *Bouygues Télécoms*, Velizy 2, France. <br/>
