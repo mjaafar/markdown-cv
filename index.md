@@ -57,13 +57,13 @@ Basic: Français, Anglais, Allemand, Italien
 
 ## Expériences Professionelles:
 
-`08/2019 - 03/2020`</h1>
+`08/2019 - 03/2020`
 
-**Ingénieur D’Etude (Ingénieur Qualité)**, *Bouygues Télécoms, Département Gateway - IAD (Routeurs Internet)* , Velizy 2, France. <br/>
+**Ingénieur D’Etude (Ingénieur Qualité)**, *Bouygues Télécoms, Velizy 2, France. <br/>
 ### Département
-Gateway-WIFI support.<br/>
+Département Gateway - IAD (Routeurs Internet)<br/>
 ### Projet
-Analyse , Debuggage et développement de correctifs.<br/>
+*Gateway-WIFI support* : Analyse , Debuggage et développement de correctifs.<br/>
 ### Travaux réalisés
 Analyse de bugs et identification de root cause avec correctifs patches ou rédaction de demande de corrections auprès des parties tierces “Airties, Quantenna”.<br/>
 Mise en place d’outils de tests et mise en place de scénarios de tests.
