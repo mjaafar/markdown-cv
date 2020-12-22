@@ -32,7 +32,6 @@ jobs:
           node-version: '12'
           check-latest: true
       - run: npm install
-      - run: npm test
       - uses: baileyjm02/markdown-to-pdf@v1.0.0
 
         with:
