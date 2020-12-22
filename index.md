@@ -57,9 +57,6 @@ Basic: Français, Anglais, Allemand, Italien
 
 ## Expériences Professionelles:
 
-<!--
-## Ingénieur D’Etude
--->
 `08/2019 - 03/2020`
 
 **Ingénieur D’Etude (Ingénieur Qualité)**, *Bouygues Télécoms*, Velizy 2, France. <br/>
@@ -78,9 +75,6 @@ Mise en place d’outils de tests et mise en place de scénarios de tests.
 Bash, python, selenium, RTC
 
 <br/>
-<!--
-## Ingénieur D’Etude
--->
 `03/2019 – 07/2019`
 
 **Ingénieur D’Etude (Ingénieur Qualité)**, *Bouygues Télécoms*, Velizy 2, France. <br/>
@@ -98,9 +92,6 @@ Analyse de bugs et support de l’équipe intégration.
 ### Environnement
 Excel , python, virtual environnement anaconda pour les developpement Python.
 <br/>
-<!--
-## Ingénieur D’Etude
--->
 `10/2018 – 03/2019`
 
 **Ingénieur Logiciel Embarqué**, *Sagemcom*, Rueil-malmaison, France. <br/>
@@ -128,5 +119,3 @@ Residence: France (Permanent resident)
 Family: Celibate
 
 <br/>Last updated: December 2020<br/><br/>
-
-
