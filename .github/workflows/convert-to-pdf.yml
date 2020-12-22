@@ -2,15 +2,24 @@
 
 name: Docs to PDF
 # This workflow is triggered on pushes to the repository.
-on:
-  push:
-    branches:
-      - master
+#on:
+#  push:
+#    branches:
+#      - master
     # Paths can be used to only trigger actions when you have edited certain files, such as a file within the /docs directory
-    paths:
-      - 'docs/**.md'
-      - 'docs/images/**'
-
+#    paths:
+#      - 'docs/**.md'
+#      - 'docs/images/**'
+on: 
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'     
+        required: true
+        default: 'warning'
+      tags:
+        description: 'Test scenario tags'  
+        
 jobs:
   converttopdf:
     name: Build PDF
