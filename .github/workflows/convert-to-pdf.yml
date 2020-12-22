@@ -30,7 +30,11 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: '12'
+          check-latest: true
+      - run: npm install
+      - run: npm test
       - uses: baileyjm02/markdown-to-pdf@v1.0.0
+
         with:
           input_dir: docs
           output_dir: pdfs
