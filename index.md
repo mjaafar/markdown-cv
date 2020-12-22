@@ -58,7 +58,6 @@ Basic: Français, Anglais, Allemand, Italien
 ## Expériences Professionelles:
 
 `08/2019 - 03/2020`
-
 **Ingénieur D’Etude (Ingénieur Qualité)**, *Bouygues Télécoms*, Velizy 2, France. <br/>
 
 ### Département
@@ -77,7 +76,6 @@ Bash, python, selenium, RTC
 
 <br/>
 `03/2019 – 07/2019`
-
 **Ingénieur D’Etude (Ingénieur Qualité)**, *Bouygues Télécoms*, Velizy 2, France. <br/>
 
 ### Département
@@ -96,7 +94,6 @@ Excel , python, virtual environnement anaconda pour les developpement Python.
 
 <br/>
 `10/2018 – 03/2019`
-
 **Ingénieur Logiciel Embarqué**, *Sagemcom*, Rueil-malmaison, France. <br/>
 
 ### Département
