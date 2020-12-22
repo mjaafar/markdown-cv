@@ -74,6 +74,23 @@ Mise en place d’outils de tests et mise en place de scénarios de tests.
 ### Environnement
 Bash, python, selenium, RTC
 
+`03/2019 – 07/2019`
+
+**Ingénieur D’Etude (Ingénieur Qualité)**, *Bouygues Télécoms*, Velizy 2, France. <br/>
+
+### Département
+Département Décodeur TV - STB (Set Top Boxes)<br/>
+
+### Projet
+*STB support - Miami, Brooklyn * : Analyse , Debuggage et développement de correctifs.<br/>
+
+### Travaux réalisés
+Mise en place d’outil d’analyse de trace et indentification de symptomes connues avec possibilté d’évolution.<br/>
+Analyse de bugs et support de l’équipe intégration.
+
+### Environnement
+Excel , python, virtual environnement anaconda pour les developpement Python.
+
 ## Personal
 
 Birth date: 8 August 1983
