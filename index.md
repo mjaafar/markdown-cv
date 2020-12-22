@@ -74,6 +74,7 @@ Mise en place d’outils de tests et mise en place de scénarios de tests.
 ### Environnement
 Bash, python, selenium, RTC
 
+
 <br/>
 `03/2019 – 07/2019`
 
@@ -91,6 +92,8 @@ Analyse de bugs et support de l’équipe intégration.
 
 ### Environnement
 Excel , python, virtual environnement anaconda pour les developpement Python.
+
+
 <br/>
 `10/2018 – 03/2019`
 
