@@ -34,15 +34,6 @@ __Systèmes de build__ 	     :	buildroot, Proprietary buildSys : ST, SAGEM, BEW
 
 __Normes  & protocoles__	   :  H264, MPEG, DVB, SIP, H323, TCP/IP, Wifi, DVB-S/T/IPTV, MPEG, TR69, TR135 ; TR157 ; OPENSSL ;SNMP, NFS, NTP, DHCP, DNS, FTP, HTTP/S, FEC, RTP/RTCP, RTSP, AUDIO : DDPLUS ; AC3 ; EAC3 ;...  HDMI : EDID ; ASTRO ; HDCP ;... SCART:WSS (CGMS-A); MACROVISION;Dbus,QT(integration) ;
 
-## Langues 
-
-__Anglais__ 		: Courant
-__Arabe__ 			: Courant
-__Français__		: Courant
-__Italien__ 		: Intermédiaire 
-__Allemand__ 		: Débutant
-__Russe__ 			: Notions
-
 ### Domaine d'intéret :
 
 Innovations, Nouvelles technologies, Linux, Docker, TvNum.
@@ -53,8 +44,39 @@ __2012__ :	Formation AGILE – Scrum Training
 __2008__ :	Programmation Linux Embarqué : Architecture Générale – ACSYS France
 __2007__ :	Diplôme d’Ingénieur en Télécommunications – ENI Tunis
 
-<!-- ### Footer
+## Memberships
 
-Last updated: December 2020 -->
+ 2006-2009
+Institute of Electrical and Electronics Engineers.
+
+## Langues
+
+Native: Arabe
+
+Basic: Français, Anglais, Allemand, Italien
+
+## Expériences Professionelles:
+
+`08/2019 - 03/2020`:
+
+**Ingénieur D’Etude (Ingénieur Qualité)**, *Bouygues Télécoms, Département Gateway - IAD (Routeurs Internet)* , Velizy 2, France. <br/>
+### Projet: Gateway-WIFI support
+".  Analyse , Debuggage et développement de correctifs."<br/>
+### Travaux réalisés:
+". Analyse de bugs et identification de root cause avec correctifs patches ou rédaction de demande de corrections auprès des parties tierces “Airties, Quantenna”."<br/>
+". Mise en place d’outils de tests et mise en place de scénarios de tests."
+
+### Environnement:
+"Bash, python, selenium, RTC"
+
+## Personal
+
+Birth date: 8 August 1983
+
+Residence: France (Permanent resident)
+
+Family: Celibate
+
+<br/>Last updated: December 2020<br/><br/>
 
 
