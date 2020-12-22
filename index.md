@@ -88,7 +88,7 @@ Bash, python, selenium, RTC
 Département Décodeur TV - STB (Set Top Boxes)<br/>
 
 ### Projet
-*STB support - Miami, Brooklyn * : Analyse , Debuggage et développement de correctifs.<br/>
+*STB support - Miami, Brooklyn* : Analyse , Debuggage et développement de correctifs.<br/>
 
 ### Travaux réalisés
 Mise en place d’outil d’analyse de trace et indentification de symptomes connues avec possibilté d’évolution.<br/>
@@ -97,7 +97,26 @@ Analyse de bugs et support de l’équipe intégration.
 ### Environnement
 Excel , python, virtual environnement anaconda pour les developpement Python.
 
+<!--
+## Ingénieur D’Etude
+-->
+`10/2018 – 03/2019`
 
+**Ingénieur Logiciel Embarqué**, *Sagemcom*, Rueil-malmaison, France. <br/>
+
+### Département
+Département Innovation - Décodeur TV - STB (Set Top Boxes)<br/>
+
+### Projet
+*Pony SmartSpeakers* :Développement, Maintenance, Integration et participation à la défintion des solutions architecture.<br/>
+
+### Travaux réalisés
+Mise en place de l environment Buildroot pour le projet Pony<br/>
+Mise en place de la SOTA : Mise à jour de firmware du Speakers.<br/>
+Mise en place de la partie factory data.<br/>
+
+### Environnement
+C, Script shell, Makefiles, cmake, dbus, autotools, bash script
 
 ## Personal
 
