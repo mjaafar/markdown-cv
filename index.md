@@ -48,11 +48,11 @@ Formation AGILE – Scrum Training
 Programmation Linux Embarqué : Architecture Générale – ACSYS France
 
 `2007`
-:	Diplôme d’Ingénieur en Télécommunications – ENI Tunis
+Diplôme d’Ingénieur en Télécommunications – ENI Tunis
 
 ## Memberships
 
- `2006-2009`
+`2006-2009`
 Institute of Electrical and Electronics Engineers.
 
 ## Langues
@@ -114,6 +114,47 @@ Mise en place de la partie factory data.<br/>
 ### Environnement
 C, Script shell, Makefiles, cmake, dbus, autotools, bash script
 
+`07-2014 03-2018`
+**Ingénieur Logiciel Embarqué Intégrateur**, *Pace*, Saint-Cloud, France.
+
+### Département
+Département Décodeur TV - STB (Set Top Boxes)
+
+### Projet
+*Dawn project* :Integration des stacks partenaires Broadcom, Metrological, Seachange et opensource<br/>
+
+### Travaux réalisés
+
+Développement, Maintenance, Integration et participation à la défintion des solutions architecture. 
+Integration et migration nexus broadcom opensource QT environnement
+Investigations and define the environment (BEWAN) limitation to support new architecture.
+Production de SDKs (Proof of Concept) sur les nouvelles versions migrées.
+Integration des nouvelles versions : stacks, systemes de Build Pace sur le projet DAWN.
+Automatiser certains process via script pour : generation de rapport license, ...
+
+### Environnement
+C, Script shell, Makefiles, cmake, dbus, QT, nexus.
+
+`08-2012 06-2014`
+**Ingénieur Logiciel Embarqué Intégrateur**, *Bouygues Télécoms*, Velizy 2, France.
+
+### Département
+Département Gateway - IAD (Routeurs Internet)
+
+### Projet
+*Dawn project* :Integration des stacks partenaires Broadcom, Metrological, Seachange et opensource<br/>
+
+### Travaux réalisés
+
+Développement, Maintenance, Integration et participation à la défintion des solutions architecture. 
+Integration et migration nexus broadcom opensource QT environnement
+Investigations and define the environment (BEWAN) limitation to support new architecture.
+Production de SDKs (Proof of Concept) sur les nouvelles versions migrées.
+Integration des nouvelles versions : stacks, systemes de Build Pace sur le projet DAWN.
+Automatiser certains process via script pour : generation de rapport license, ...
+
+### Environnement
+C, Script shell, Makefiles, cmake, dbus, QT, nexus.
 ## Personal
 
 Birth date: 8 August 1983
