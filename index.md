@@ -59,16 +59,16 @@ Basic: Français, Anglais, Allemand, Italien
 ## Expériences Professionelles:
 
 `08/2019 - 03/2020`
-**Ingénieur D’Etude (Ingénieur Qualité)**, *Bouygues Télécoms*, Velizy 2, France. <br/>
+**Ingénieur D’Etude (Ingénieur Qualité)**, *Bouygues Télécoms*, Velizy 2, France.
 
 ### Département
-Département Gateway - IAD (Routeurs Internet)<br/>
+Département Gateway - IAD (Routeurs Internet)
 
 ### Projet
-*Gateway-WIFI support* : Analyse , Debuggage et développement de correctifs.<br/>
+*Gateway-WIFI support* : Analyse , Debuggage et développement de correctifs.
 
 ### Travaux réalisés
-Analyse de bugs et identification de root cause avec correctifs patches ou rédaction de demande de corrections auprès des équipes intégrations ou parties tierces “Airties, Quantenna”.<br/>
+Analyse de bugs et identification de root cause avec correctifs patches ou rédaction de demande de corrections auprès des équipes intégrations ou parties tierces “Airties, Quantenna”.
 Mise en place d’outils de tests et mise en place de scénarios de tests.
 
 ### Environnement
@@ -77,35 +77,33 @@ Bash, python, selenium, RTC
 
 <br/>
 `03-2019 07-2019`
-**Ingénieur D’Etude (Ingénieur Qualité)**, *Bouygues Télécoms*, Velizy 2, France. <br/>
+**Ingénieur D’Etude (Ingénieur Qualité)**, *Bouygues Télécoms*, Velizy 2, France.
 
 ### Département
-Département Décodeur TV - STB (Set Top Boxes)<br/>
+Département Décodeur TV - STB (Set Top Boxes)
 
 ### Projet
-*STB support - Miami, Brooklyn* : Analyse , Debuggage et développement de correctifs.<br/>
+*STB support - Miami, Brooklyn* : Analyse , Debuggage et développement de correctifs.
 
 ### Travaux réalisés
-Mise en place d’outil d’analyse de trace et indentification de symptomes connues avec possibilté d’évolution.<br/>
+Mise en place d’outil d’analyse de trace et indentification de symptomes connues avec possibilté d’évolution.
 Analyse de bugs et support de l’équipe intégration.
 
 ### Environnement
 Excel , python, virtual environnement anaconda pour les developpement Python.
 
-
-<br/>
 `10-2018 03-2019`
-**Ingénieur Logiciel Embarqué**, *Sagemcom*, Rueil-malmaison, France. <br/>
+**Ingénieur Logiciel Embarqué**, *Sagemcom*, Rueil-malmaison, France.
 
 ### Département
-Département Innovation - Décodeur TV - STB (Set Top Boxes)<br/>
+Département Innovation - Décodeur TV - STB (Set Top Boxes)
 
 ### Projet
 *Pony SmartSpeakers* :Développement, Maintenance, Integration et participation à la défintion des solutions architecture.<br/>
 
 ### Travaux réalisés
-Mise en place de l environment Buildroot pour le projet Pony<br/>
-Mise en place de la SOTA : Mise à jour de firmware du Speakers.<br/>
+Mise en place de l environment Buildroot pour le projet Pony
+Mise en place de la SOTA : Mise à jour de firmware du Speakers.
 Mise en place de la partie factory data.<br/>
 
 ### Environnement
@@ -119,4 +117,4 @@ Residence: France (Permanent resident)
 
 Family: Celibate
 
-<br/>Last updated: December 2020<br/><br/>
+<br/>Last updated: December 2020<br/>
