@@ -33,7 +33,7 @@ __Méthodes, Gestion__ 	     :	Cycle en V, UML, Méthode Agile
 
 __Systèmes de build__ 	     :	buildroot, Proprietary buildSys : ST, SAGEM, BEWAN, PACE
 
-__Normes & protocoles__	    :  H264, MPEG, DVB, SIP, H323, TCP/IP, Wifi, DVB-S/T/IPTV, MPEG, TR69, TR135 ; TR157 ; OPENSSL ;SNMP, NFS, NTP, DHCP, DNS, FTP, HTTP/S, FEC, RTP/RTCP, RTSP, AUDIO : DDPLUS ; AC3 ; EAC3 ;...  HDMI : EDID ; ASTRO ; HDCP ;... SCART:WSS (CGMS-A); MACROVISION;Dbus,QT(integration) ;
+__Normes & protocoles__	    :  H264, MPEG, DVB, SIP, H323, TCP/IP, Wifi, DVB-S/T/IPTV, MPEG, TR69, TR135 ; TR157 ; OPENSSL ;SNMP, NFS, NTP, DHCP, DNS,     FTP, HTTP/S, FEC, RTP/RTCP, RTSP, AUDIO : DDPLUS ; AC3 ; EAC3 ;...  HDMI : EDID ; ASTRO ; HDCP ;... SCART:WSS (CGMS-A); MACROVISION;Dbus,QT(integration) ;
 
 ## Domaine d'intéret :
 
@@ -72,7 +72,7 @@ Mise en place d’outils de tests et mise en place de scénarios de tests.
 ### Environnement
 Bash, python, selenium, RTC
 
-
+</br>
 `03-2019 07-2019`
 **Ingénieur D’Etude (Ingénieur Qualité)**, *Bouygues Télécoms*, Velizy 2, France.
 ### Département
@@ -85,6 +85,8 @@ Analyse de bugs et support de l’équipe intégration.
 ### Environnement
 Excel , python, virtual environnement anaconda pour les developpement Python.
 
+
+</br>
 `10-2018 03-2019`
 **Ingénieur Logiciel Embarqué**, *Sagemcom*, Rueil-malmaison, France.
 ### Département
@@ -98,6 +100,7 @@ Mise en place de la partie factory data.<br/>
 ### Environnement
 C, Script shell, Makefiles, cmake, dbus, autotools, bash script
 
+</br>
 `07-2014 03-2018`
 **Ingénieur Logiciel Embarqué Intégrateur**, *Pace*, Saint-Cloud, France.
 ### Département
@@ -114,6 +117,7 @@ Automatiser certains process via script pour : generation de rapport license, ..
 ### Environnement
 C, Script shell, Makefiles, cmake, dbus, QT, nexus.
 
+</br>
 `10-2013 06-2014`
 **Ingénieur Logiciel Embarqué Intégrateur**, *Bouygues Télécoms*, Velizy 2, France.
 ### Département
@@ -128,6 +132,7 @@ Investigations and define the environment (BEWAN) limitation to support new arch
 ### Environnement
 C, Script shell, Makefiles, ACS Motorola
 
+</br>
 `08-2012 10-2013`
 **Ingénieur Logiciel Embarqué Intégrateur**, *Bouygues Télécoms*, Velizy 2, France.
 ### Département
@@ -143,7 +148,6 @@ TR69 / TR135 / TR157 : correction de bug, evolutions sur toutes les plateformes 
 Investigations dans les modules software (ST, INTEL, PVRMUX, AUDIO, DMX, …)
 ### Environnement
 C, Script shell, Makefiles, ACS Motorola
-
 
 ## Personal
 Birth date: 8 August 1983
